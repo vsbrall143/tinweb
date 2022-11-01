@@ -1,0 +1,2 @@
+# tinweb
+static website
